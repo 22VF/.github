@@ -9,7 +9,6 @@
 * Yfirferð verkefna miðast við stöðu verkefna á skiladegi sem er tilgreindur í námsáætlun. 
 * Einkunnir eru birtar í Innu
 
-🧙 Athugið að það er ekki farið yfir verkefni sem er skilað í INNU
 
 ### 🌈 Skipulag VEFÞ2VFC
 
@@ -26,7 +25,6 @@ Github.com/22VF/nemandi (user)
 
 🙋‍♀️ Kennari fer eingöngu yfir verkefni sem skilað er í áfangageymsluna
 	
-Inna - Skila vefslóð (URL) að verkefnum í áfangageymslu í Verkefni 1. 2. 3. ...
 <!--
 
 **Here are some ideas to get you started:**
