@@ -16,10 +16,10 @@
 
 Staðvært umhverfi (local environment)
    |___	env (python flask)
-   |___	áfangageymsla (github clone)
+   |___	áfangageymsla (repository clone)
 
 Github.com/22VF/nemandi (user)
-   |___ áfangageymsla (Classroom Assignments)
+   |___ áfangageymsla (Classroom repository)
    
 ```
 
