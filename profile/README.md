@@ -17,15 +17,14 @@
 
 Staðvært umhverfi (local environment)
    |___	env (python flask)
-   |___	áfangageymslan (github clone)
+   |___	áfangageymsla (github clone)
 
 Github.com/22VF/nemandi (user)
-   |___ Áfangageymsla (Github Classroom Assignments)
+   |___ áfangageymsla (Classroom Assignments)
    
 ```
 
-	Nemandi er í beinu samstarfi við kennara
-	Kennari fer eingöngu yfir verkefni sem skilað er í áfangageymsluna
+🙋‍♀️ Kennari fer eingöngu yfir verkefni sem skilað er í áfangageymsluna
 	
 Inna - Skila vefslóð (URL) að verkefnum í áfangageymslu í Verkefni 1. 2. 3. ...
 <!--
