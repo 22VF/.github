@@ -28,7 +28,7 @@ Github.com/22VF/nemandi (user)
        
 Staðvært umhverfi (local environment)
    |___	env (python flask)
-   |___	áfangageymsla (repository clone)
+   |___	áfangageymsla (Classroom repository clone)
    
 ```
 	
