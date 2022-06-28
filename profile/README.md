@@ -23,8 +23,6 @@ Staðvært umhverfi (local environment)
    |___	áfangageymsla (repository clone)
    
 ```
-
-🙋‍♀️ Gangi ykkur vel
 	
 <!--
 
