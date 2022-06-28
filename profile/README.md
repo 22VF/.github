@@ -16,9 +16,9 @@
 ```
 
 Github.com/22VF/nemandi (user)
+   |___ .gitignore
+   |___ README.md
    |___ áfangageymsla (Classroom repository)
-       |___ .gitignore
-       |___ README.md
        |___ verkefni 1 
        |___ verkefni 2 
        |___ verkefni 3 
