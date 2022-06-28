@@ -15,10 +15,9 @@
 
 ```
 
-Github.com/22VF/nemandi (user)
+Github.com/22VF/22h-nemi (áfangageymsla - Classroom repository)
    |___ .gitignore
    |___ README.md
-   |___ áfangageymsla (Classroom repository)
        |___ verkefni 1 
        |___ verkefni 2 
        |___ verkefni 3 
