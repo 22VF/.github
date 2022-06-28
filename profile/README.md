@@ -7,6 +7,7 @@
 
 * Verkefnalýsingar og sýnidæmi eru í [https://github.com/vefthroun/22H/Verkefni/](https://github.com/vefthroun/22H/)
 * Yfirferð verkefna miðast við stöðu verkefna á skiladegi sem er tilgreindur í námsáætlun. 
+* Kennari fer eingöngu yfir verkefni sem skilað er í áfangageymsluna
 * Einkunnir eru birtar í Innu
 
 
@@ -23,7 +24,7 @@ Staðvært umhverfi (local environment)
    
 ```
 
-🙋‍♀️ Kennari fer eingöngu yfir verkefni sem skilað er í áfangageymsluna
+🙋‍♀️ Gangi ykkur vel
 	
 <!--
 
