@@ -17,14 +17,14 @@
 
 Github.com/22VF/nemandi (user)
    |___ áfangageymsla (Classroom repository)
+       |___ .gitignore
+       |___ README.md
        |___ verkefni 1 
        |___ verkefni 2 
        |___ verkefni 3 
        |___ verkefni 4 
        |___ verkefni 5 
        |___ verkefni 6
-       README.md
-       .gitignore
        
 Staðvært umhverfi (local environment)
    |___	env (python flask)
