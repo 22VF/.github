@@ -14,12 +14,12 @@
 
 ```
 
+Github.com/22VF/nemandi (user)
+   |___ áfangageymsla (Classroom repository)
+   
 Staðvært umhverfi (local environment)
    |___	env (python flask)
    |___	áfangageymsla (repository clone)
-
-Github.com/22VF/nemandi (user)
-   |___ áfangageymsla (Classroom repository)
    
 ```
 
