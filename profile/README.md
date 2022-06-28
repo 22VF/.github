@@ -11,7 +11,23 @@
 
 🧙 Athugið að það er ekki farið yfir verkefni sem er skilað í INNU
 
+### 🌈 Skipulag VEFÞ2VFC
 
+```
+
+Staðvært umhverfi (local environment)
+   |___	env (python flask)
+   |___	áfangageymslan (github clone)
+
+Github.com/22VF/nemandi (user)
+   |___ Áfangageymsla (Github Classroom Assignments)
+   
+```
+
+	Nemandi er í beinu samstarfi við kennara
+	Kennari fer eingöngu yfir verkefni sem skilað er í áfangageymsluna
+	
+Inna - Skila vefslóð (URL) að verkefnum í áfangageymslu í Verkefni 1. 2. 3. ...
 <!--
 
 **Here are some ideas to get you started:**
