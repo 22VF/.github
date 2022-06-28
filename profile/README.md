@@ -15,7 +15,7 @@
 
 ```
 
-Github.com/22VF/22h-nemi (áfangageymsla - Classroom repository)
+Github.com/22VF/22h-nafn (áfangageymsla - Classroom repository)
    |___ .gitignore
    |___ README.md
        |___ verkefni 1 
