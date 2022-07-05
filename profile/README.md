@@ -5,8 +5,10 @@
 2. Til að geta unnið verkefnin í áfangageymslunni verður þú að klóna geymsluna yfir á þína tölvu
    * [Git verklag](https://vefgrunnur.github.io/verkefnaskil/git_verklag.html)
 
-* [Verkefnalýsingar og sýnidæmi](https://github.com/vefthroun/Verkefni/)
-* [Bjargir](https://github.com/vefthroun/verkefni/wiki)
+* [Verkefnalýsingar](https://github.com/vefthroun/Verkefni/)
+* [Námsefni og sýnidæmi](https://github.com/vefthroun/Namsefni)
+
+
 * Yfirferð verkefna miðast við stöðu verkefna á skiladegi sem er tilgreindur í námsáætlun. 
 * Kennari fer eingöngu yfir verkefni sem skilað er í áfangageymsluna
 * Einkunnir eru birtar í Innu
