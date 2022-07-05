@@ -3,7 +3,7 @@
 1. Áfangageymslan inniheldur möppur þar sem þú skilar öllum verkefnum áfangans sem lögð eru fyrir
    * Áfangageymslan er lokuð (_privat_) öðrum en nemanda og kennara sem fer yfir verkefnin þar.
 2. Til að geta unnið verkefnin í áfangageymslunni verður þú að klóna geymsluna yfir á þína tölvu
-   * [Git verklag](https://vefgrunnur.github.io/verkefnaskil/git_verklag.html)
+    [Git verklag](https://vefgrunnur.github.io/verkefnaskil/git_verklag.html)
 
 * [Verkefnalýsingar](https://github.com/vefthroun/Verkefni/)
 * [Námsefni og sýnidæmi](https://github.com/vefthroun/Namsefni)
