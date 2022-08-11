@@ -14,27 +14,6 @@
 * Yfirferð verkefna miðast við stöðu verkefna á skiladegi sem er tilgreindur í námsáætlun. 
 * Kennari fer eingöngu yfir verkefni sem skilað er í áfangageymsluna
 * Einkunnir eru birtar í Innu
-
-
-### 🌈 Skipulag VEFÞ2VFC
-
-```
-
-Github.com/22VF/22h-nafn (áfangageymsla - Classroom repository)
-   |___ .gitignore
-   |___ README.md
-       |___ verkefni 1 
-       |___ verkefni 2 
-       |___ verkefni 3 
-       |___ verkefni 4 
-       |___ verkefni 5 
-       |___ verkefni 6
-       
-Staðvært umhverfi (local environment)
-   |___	env (python flask)
-   |___	áfangageymsla (Classroom repository clone)
-   
-```
 	
 <!--
 
